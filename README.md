@@ -11,8 +11,8 @@ This Dart console application interacts with the "divar.ir" website to retrieve 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/divar-dart-app.git
-   cd divar-dart-app
+   git clone https://github.com/nimahedayati/dart_divar_contact_extractor
+   cd dart_divar_contact_extractor
    ```
 
 2. Install dependencies:
